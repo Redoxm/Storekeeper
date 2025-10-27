@@ -4,9 +4,8 @@ A modern product inventory management application built with Flutter, featuring 
 
 ## 📥 Download & Demo
 
-- **[Download APK](YOUR_GOOGLE_DRIVE_APK_LINK_HERE)**
-- **[Watch Demo Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE)**
-- **[GitHub Repository](YOUR_GITHUB_REPO_LINK_HERE)**
+- **[Watch Demo Video](https://drive.google.com/drive/folders/1Fyopm33w4ipPXYjyD02APq2oIjHmZL9T)**
+- **[GitHub Repository](https://github.com/Redoxm/Storekeeper)**
 
 ## ✨ Features
 
@@ -28,7 +27,12 @@ A modern product inventory management application built with Flutter, featuring 
 
 ## 📱 Screenshots
 
-[Add 4-5 screenshots here after taking them]
+[<img width="402" height="790" alt="image" src="https://github.com/user-attachments/assets/6d289536-3158-499f-8803-fe6026f49ce7" />
+<img width="415" height="775" alt="image" src="https://github.com/user-attachments/assets/a3544846-efde-4c47-ac05-9a8b5e67f5d5" />
+<img width="393" height="766" alt="image" src="https://github.com/user-attachments/assets/66482618-9847-4240-9d08-b79cde3ae247" />
+<img width="397" height="760" alt="image" src="https://github.com/user-attachments/assets/655372ca-ebbb-4fe8-b588-ba84bebd7c3b" />
+
+]
 
 ## 🛠️ Technologies Used
 
