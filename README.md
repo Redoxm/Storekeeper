@@ -141,4 +141,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ for HNG12 Mobile Track - Stage 2**
+**Built with ❤️ for HNG13 Mobile Track - Stage 2**
